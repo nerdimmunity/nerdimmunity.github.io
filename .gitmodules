@@ -1,0 +1,4 @@
+[submodule "nerdimmunity/themes/blowfish"]
+	path = nerdimmunity/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
