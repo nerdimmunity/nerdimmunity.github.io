@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Nerd Immunity</title>
+    <link>https://nerdimmunity.github.io/</link>
+    <description>Recent content on Nerd Immunity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 12:21:09 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nerdimmunity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>Laser cut guitar pedal board</title>
+      <link>https://nerdimmunity.github.io/projects/pedalboard/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/projects/pedalboard/</guid>
+      <description>A simple pedalboard for guitar effects pedals, laser cut from 5mm MDF.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nerdimmunity.github.io/projects/pedalboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://nerdimmunity.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 07 Jul 2023 12:21:09 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://nerdimmunity.github.io/posts/my-first-post/</guid>
+      <description>So this is exciting. My first post on this new site.</description>
       
     </item>
     

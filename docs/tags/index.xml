@@ -1,9 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on Nerd Immunity</title>
+    <link>https://nerdimmunity.github.io/tags/</link>
+    <description>Recent content in Tags on Nerd Immunity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nerdimmunity.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>https://nerdimmunity.github.io/tags/design/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guitar</title>
+      <link>https://nerdimmunity.github.io/tags/guitar/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/guitar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laser cut</title>
+      <link>https://nerdimmunity.github.io/tags/laser-cut/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/laser-cut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pedalboard</title>
+      <link>https://nerdimmunity.github.io/tags/pedalboard/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/pedalboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://nerdimmunity.github.io/tags/project/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://nerdimmunity.github.io/tags/first/</link>
+      <pubDate>Fri, 07 Jul 2023 12:21:09 +0100</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://nerdimmunity.github.io/tags/welcome/</link>
+      <pubDate>Fri, 07 Jul 2023 12:21:09 +0100</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

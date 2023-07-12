@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nerd Immunity</title>
+    <link>https://nerdimmunity.github.io/projects/</link>
+    <description>Recent content in Projects on Nerd Immunity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nerdimmunity.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laser cut guitar pedal board</title>
+      <link>https://nerdimmunity.github.io/projects/pedalboard/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/projects/pedalboard/</guid>
+      <description>A simple pedalboard for guitar effects pedals, laser cut from 5mm MDF.</description>
+    </item>
+    
+  </channel>
+</rss>

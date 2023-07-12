@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Blog on Nerd Immunity</title>
+    <link>https://nerdimmunity.github.io/posts/</link>
+    <description>Recent content in Blog on Nerd Immunity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jul 2023 12:21:09 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jul 2023 12:21:09 +0100</lastBuildDate><atom:link href="https://nerdimmunity.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>My first post</title>
+      <link>https://nerdimmunity.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 07 Jul 2023 12:21:09 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://nerdimmunity.github.io/posts/my-first-post/</guid>
+      <description>So this is exciting. My first post on this new site.</description>
     </item>
     
   </channel>
