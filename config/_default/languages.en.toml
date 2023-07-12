@@ -13,12 +13,12 @@ title = "Nerd Immunity"
   description = "Coding and making for music, photography and other creative endeavours"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-   name = "Guy J Brown"
-#   image = "img/blowfish_logo.png"
- headline = "I'm only human"
-   bio = "A little bit about you"
-#   links = [
+[author]
+  name = "Nerd Immunity"
+  image = "img/nerd-circle.png"
+  headline = "Creative coding and making by Guy J Brown"
+  # bio = "A little bit about you"
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -31,7 +31,7 @@ title = "Nerd Immunity"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+      { github = "https://github.com/nerdimmunity" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -39,7 +39,7 @@ title = "Nerd Immunity"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/guy-brown-8505a0/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -61,4 +61,4 @@ title = "Nerd Immunity"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
