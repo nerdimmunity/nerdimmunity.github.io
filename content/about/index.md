@@ -4,7 +4,7 @@ showDate: false
 showReadingTime: false
 sharingLinks: false
 ---
-Hello. I'm a creative coder and maker based in Sheffield, UK. I enjoy using laser cutters and 3D printers to make gadgets that support my adventures in music and photography. I also write code to present data and generate imagery, and dabble in graphic design.
+Hello. I'm Guy Brown. I'm a creative coder and maker based in Sheffield, UK. I enjoy using laser cutters and 3D printers to make gadgets that support my adventures in music and photography. I also write code to present data and generate imagery, and dabble in graphic design.
 
 By day I work at the [University of Sheffield](https://www.sheffield.ac.uk), where there is a fantastic student-run maker space called the [iForge](https://iforgesheffield.org/). Most of the things that I have designed and made have been put together there. 
 
