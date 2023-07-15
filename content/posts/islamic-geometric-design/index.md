@@ -1,6 +1,6 @@
 ---
 title: "Islamic geometric design"
-date: 2023-07-15T12:21:09+01:00
+date: 2023-07-15T21:15:09+01:00
 summary: "I've added a new repository with examples of Islamic geometric design."
 description: "summary"
 tags: ["Islamic","geometric","design","India"]
