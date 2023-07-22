@@ -22,6 +22,6 @@ The wheel was cut from acrylic and then finished on a lathe. The bridge took a b
 
 Overall I would say this was a partial success. It doesn't play particularly well and the microphones pick up too much internal noise from the keys. If I was making another one I'd have a proper bridge by the tuning pegs and true the wheel on the spindle in situ, rather than trying to do it on a lathe - it's almost impossible to get the wheel evenly pressing against the strings otherwise.   
 
-
+[Go to the GitHub repository](https://github.com/nerdimmunity/laser-cut-hurdy-gurdy)
 
 
