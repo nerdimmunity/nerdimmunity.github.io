@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hurdy gurdy on Nerd Immunity</title>
+    <link>https://nerdimmunity.github.io/tags/hurdy-gurdy/</link>
+    <description>Recent content in hurdy gurdy on Nerd Immunity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nerdimmunity.github.io/tags/hurdy-gurdy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laser cut symphonie (hurdy gurdy)</title>
+      <link>https://nerdimmunity.github.io/projects/hurdygurdy/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdimmunity.github.io/projects/hurdygurdy/</guid>
+      <description>A four-string hurdy gurdy laser cut from plywood, brass and acrylic.</description>
+    </item>
+    
+  </channel>
+</rss>
